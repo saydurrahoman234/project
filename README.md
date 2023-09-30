@@ -1,4 +1,4 @@
 # project
 html/css plugin project
-live
+live previw
 https://saydurrahoman234.github.io/project/
